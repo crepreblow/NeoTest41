@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project NeoTest4)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "NeoTest4",
+    "language": "java"
+  }
+]
